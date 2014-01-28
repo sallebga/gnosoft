@@ -1,0 +1,232 @@
+[[gnosoft]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== GNOSOFT
+
+=== VALIDAR SIMA vs GNOSOFT
+
+* Generar el reporte: *[Acad&#233;mico administrador][Consultas y reportes][Generar reportes][MATR&#205;CULA][Estudiantes Matriculados]*
+
+** Grabar el archivo con el nombre de: *gnosoft.csv*
+
+** Abrir el archivo con excel 2003 y eliminar todos campos excepto los siguientes:
+
+*** cCodigoGru
+
+*** cCodigoNiv
+
+*** cDocNitEst
+
+*** cApelliEst
+
+*** cNombreEst
+
+*** cCodigoEst
+
+** Ampliar los campos para ajustar las columnas y revisar todos los campos para que no queden truncados.
+
+** Agregar al principio un registro alfabetico puede ser la letra a para cada columna y grabar el archivo como una hoja de
+   excel con el mismo nombre de: *gnosoft.xls*
+
+** Convertir el archivo de excel en una tabla de Dbase III Plus:[Archivo][Guardar como:][Guardar como tipo: DBF 3(DBASE III(*.dbf))] archivo: *gnosoft.dbf*
+
+** Copiar los maestros de alumnos del sima en la misma carpeta donde se grabo el archivo: gnosoft.dbf, esto como una copia de seguridad.
+
+** Copiar los maestros del sima a la carpeta: ..[SIMATOOL][BASES] con le extensi&#243;n: .dbf
+
+** Copiar el archivo: *gnosoft.dbf* a la carpeta: ..[SIMATOOL][BASES]
+
+** Ir por la consola del D.O.S y ubicarse en la carpeta: [SIMATOOL][BASES]
+
+** Ejecutar el DBU.EXE y abrir el archivo maesoft.dat
+
+*** Borrar los registros escogiendo la opci&#243;n: *Zap*
+
+*** Appendizar los registros del archivo: *gnosoft.dbf*
+
+*** Verificar los registros agregados escogiendo la opci&#243;n: Browse
+
+** Ejecutar el DBU.EXE y abrir el archivo maesima.dat
+
+*** Borrar los registros escogiendo la opci&#243;n: *Zap*
+
+*** Appendizar los registros de los archivos de los maestros del sima con le extensi&#243;n: .dbf
+
+*** Verificar los registros agregados escogiendo la opci&#243;n: Browse
+
+** Ejecutar la opción para encontrar las inconsistencias ingresando en SIMATOOL
+
+*** *[SISTEMA SIMATOOL][ACTUALIZAR][VALIDAR MAEA&#209;O EXTERNO]*
+
+** Copiar los archivos: maesoft.dat y maesima.dat que contiene las inconsistencias encontradas.
+
+
+=== PENDIENTE
+
+** Reemplazar los campos:
+
+*** gred_nombre = grado
+
+*** documento = xDocNit  NOTA: Garantizar que el primer registro sea caracter
+
+*** apellidos = xApelli
+
+*** nombres = xNombre
+
+*** codigo = xCodigo
+
+** Ampliar los campos para ajustar las columnas
+
+** Reemplazar los nombres de los grados:
+
+*** PREJARDÍN = PREJARDIN
+
+*** JARDÍN = JARDIN
+
+*** TRANSICIÓN = TRANSICION
+
+*** UNDÉCIMO = UNDECIMO
+
+** Convertir el archivo a maesoft.dbf y renombrar a maesoft.dat
+
+** Agregar los campos en los campos equivalentes:
+
+*** cCodigoEst = Character(6)
+
+*** cCodigoGru = Character(6)
+
+*** cDocNitEst = Character(16)
+
+*** cApelliEst = Character(30)
+
+*** cNombreEst = Character(30)
+
+*** Observacio = Character(100)
+
+*** Tipo = Character(1) => Sima - Gnosoft
+
+* Crear una copia del archivo maesoft.dat
+
+** copy maesoft.dat maesima.dat e eliminar sus registros
+
+** appendizar los registros de todos los maestros del sima
+
+=== PASOS
+
+* DESCARGAR LOS ESTUDIANTES:[Academico administrador][Consultas y reportes][Generar reportes][Matricula][Estudiantes Matriculados]  este mismo archivo se puede utilizar para actualizar los datos.
+
+* CONVERTIR EL EXCEL A FORMATO DBF: Editar el excel adicionar los campos cCodigoEst,cCodigoGru,renombrar los campos de cApelliEst,cNombreEst,etc. eliminar los innecsarios
+
+* REEMPLAZAR el cCodigoGru: REPL ALL cCodigoGru WITH SUBS(CURSO,AT('-',curso)+1,4)
+
+* REEMPLAZAR EL cCodigoEst: REPL ALL cCodigoEst  WITH STR(codigo,6)
+
+* APPEND DE JAR: APPEND FROM MAE FOR VAL(SUBS(cCodigoGru,1,2)) > 11
+
+* APPEND DE PRI:  APPEND FROM  MAE FOR VAL(SUBS(cCodigoGru,1,2)) <= 5
+
+* APPEND DE BTO: APPEND FROM MAE FOR VAL(SUBS(cCodigoGru,1,2)) >= 6 .AND. VAL(SUBS(cCodigoGru,1,2)) <= 11
+
+* COPIA DE LOS MAESTROS DE ESTUDIANTES: Se deben borrar los indices
+
+* NOTA: Se creo el archivo migrar.prg y se grabo en \simaclip.v52\simacont\f para automatizar este proceso.
+
+=== CAMPOS DEL MAESTRO DE ALUMNOS
+
+* *cCodigoEst*=>Codigo del Estudiante
+
+* *cCodigoGru*=>Codigo del grupo
+
+* *grado*=>Grado
+
+* *cTipNitEst*=>Tipo de Documento
+
+* *cDocNitEst*=>Documento de Identidad
+
+* *cLugNitEst*=>Lugar del Documento de identidad
+
+* *cDepNitEst*=>Departamento del Documento de identidad
+
+* *cApelliEst*=>Apellido del Estudiante
+
+* *cNombreEst*=>Nombre del Estudiante
+
+* *cSexFemEst*=>Sexo Femenino o Masculino
+
+* *cFecNacEst*=>Fecha de nacimiento
+
+* *cCiuNacEst*=>Ciudad de nacimiento
+
+* *cDepNacEst*=>Departamento Nacimiento
+
+* *cDireccEst*=>Direccion de la casa
+
+* *cBarrioEst*=>Barrio de la direccion
+
+* *cCiudadEst*=>Ciudad del Estudiante
+
+* *cDepartEst*=>Departamento del Estudiante
+
+* *cTelefnEst*=>Telefono de la casa
+
+* *cTelCelEst*=>Telefono celular del Estudiante
+
+* *cMaiEstEst*=>E-MAIL del Estudiante
+
+* *cFecMatEst*=>Fecha de matricula
+
+* *cHorMatEst*=>Hora de matricula
+
+* *estado*=>Estado del Estudiante
+
+* *cRetiroEst*=>Retirado
+
+* *cFecRetEst*=>Fecha del retiro
+
+* *cEstratEst*=>Estatro del Estudiante
+
+* *cNomEpsEst*=>Nombre de la Eps del Estudiante
+
+* *cGrupRhEst*=>Grupo Sanguineo
+
+
+===  INFORMES SOLICITADOS PARA MIGRAR DATOS
+
+* [Academico administrador][Consultas y reportes][Generar reportes][ESTUDIANTE]Reporte Estudiantes Activos y Retirados
+
+** Este informe contiene cada uno de los estudiantes matriculados y retirados con su información
+
+** Este informe sirve para verificar los estudiantes y actualizar la información
+
+** Para efectos de migración este archivo se debe convertir a .DBF y nombrar el archivo con el nombre MAEALU.DAT,
+   SE DEBEN ampliar las columnas con el suficiente espacio para que no se trunque la infomación al convertir el archivo a DBF
+
+** Campo: Renombrar el campo de AÑO LECTIVO por ANO
+
+* [Academico administrador][Consultas y reportes][Generar reportes][ACUDIENTE]Reporte Acudientes, Contratantes y Codeudores
+
+** Este reporte contiene la información de los acudientes, contratantes y coodeudores
+
+** Para efectos de migración este archvo se debe convertir a .DBF y nombrar el archivo con el nombre de MAEACU.DAT, SE DEBEN ampliar las columnas con el suficiente espacio para que no se trunque la infomación al convertir el archivo a DBF
+
+*** Campo: cCodigoEst
+
+**** Renombrar el campo cCodigoEst a CodEst porque es un campo númerico
+
+**** Agregar el campo cCodigoEst de tipo Caracter de longitud 6
+
+**** Igualar el campo cCodigoEst = STR(CodEst,6)
+
+*** Campo: cTelefnPer
+
+**** Garantizar que al convertirlo sea de tipo caracter esto se logra garantizando que el primer registro no sea todo númerico
+
+
+

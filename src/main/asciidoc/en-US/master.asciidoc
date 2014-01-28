@@ -1,0 +1,6 @@
+= GI - ACTIVIDADES
+
+include::modules/gnosoft.asciidoc[]
+
+
+
