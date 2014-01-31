@@ -12,613 +12,635 @@ n=&#241; N=&#209;
 
 === RACK No.1: CENTRO DE DATOS EDIFICIO NUEVO
 
-.PATCH PANEL No.1
+.PATCH PANEL No.1 SIEMON
 [options="header"]
-|=======================
-|MARQUILLA|UBICACION   |
-|R1PP1-01 |            |
-|R1PP1-02 |            |
-|R1PP1-03 |            |
-|R1PP1-04 |            |
-|R1PP1-05 |            |
-|R1PP1-06 |            |
-|R1PP1-07 |            |
-|R1PP1-08 |            |
-|R1PP1-09 |            |
-|R1PP1-10 |            |
-|R1PP1-11 |            |
-|R1PP1-12 |            |
-|R1PP1-13 |            |
-|R1PP1-14 |            |
-|R1PP1-15 |            |
-|R1PP1-16 |            |
-|R1PP1-17 |            |
-|R1PP1-18 |            |
-|R1PP1-19 |            |
-|R1PP1-20 |            |
-|R1PP1-21 |            |
-|R1PP1-22 |            |
-|R1PP1-23 |            |
-|R1PP1-24 |            |
-|=======================
+|==============================
+|MARQUILLA     |UBICACION     |
+|R1PP1-01-SW-XX|MESA No.00    |
+|R1PP1-02-SW-XX|MESA No.01    |
+|R1PP1-03-SW-XX|MESA No.02    |
+|R1PP1-04-SW-XX|MESA No.03    |
+|R1PP1-05-SW-XX|MESA No.04    |
+|R1PP1-06-SW-XX|MESA No.05    |
+|R1PP1-07-SW-XX|MESA No.06    |
+|R1PP1-08-SW-XX|MESA No.07    |
+|R1PP1-09-SW-XX|MESA No.08    |
+|R1PP1-10-SW-XX|MESA No.09    |
+|R1PP1-11-SW-XX|MESA No.10    |
+|R1PP1-12-SW-XX|FOTOCOPIA     |
+|R1PP1-13-SW-XX|BIBLIOTECA    |
+|R1PP1-14-SW-XX|VOZ           |
+|R1PP1-15-SW-XX|AUX-PC        |
+|R1PP1-16-SW-XX|              |
+|R1PP1-17-SW-XX|              |
+|R1PP1-18-SW-XX|              |
+|R1PP1-19-SW-XX|              |
+|R1PP1-20-SW-XX|              |
+|R1PP1-21-SW-XX|SISTEMAS-1    |
+|R1PP1-22-SW-XX|SISTEMAS-2    |
+|R1PP1-23-SW-XX|R2PP2-24-SW-XX|SALA No.2
+|R1PP1-24-SW-XX|              |SALA No.3
+|==============================
 
-.PATCH PANEL No.2
+.PATCH PANEL No.2 SIEMON
 [options="header"]
-|=======================
-|MARQUILLA|UBICACION   |
-|R1PP2-01 |            |
-|R1PP2-02 |            |
-|R1PP2-03 |            |
-|R1PP2-04 |            |
-|R1PP2-05 |            |
-|R1PP2-06 |            |
-|R1PP2-07 |            |
-|R1PP2-08 |            |
-|R1PP2-09 |            |
-|R1PP2-10 |            |
-|R1PP2-11 |            |
-|R1PP2-12 |            |
-|R1PP2-13 |            |
-|R1PP2-14 |            |
-|R1PP2-15 |            |
-|R1PP2-16 |            |
-|R1PP2-17 |            |
-|R1PP2-18 |            |
-|R1PP2-19 |            |
-|R1PP2-20 |            |
-|R1PP2-21 |            |
-|R1PP2-22 |            |
-|R1PP2-23 |            |
-|R1PP2-24 |            |
-|=======================
+|============================
+|MARQUILLA     |UBICACION   |
+|R1PP2-01-SW-XX|            |
+|R1PP2-02-SW-XX|            |
+|R1PP2-03-SW-XX|            |
+|R1PP2-04-SW-XX|            |
+|R1PP2-05-SW-XX|            |
+|R1PP2-06-SW-XX|            |
+|R1PP2-07-SW-XX|            |
+|R1PP2-08-SW-XX|            |
+|R1PP2-09-SW-XX|            |
+|R1PP2-10-SW-XX|            |
+|R1PP2-11-SW-XX|            |
+|R1PP2-12-SW-XX|            |
+|R1PP2-13-SW-XX|            |
+|R1PP2-14-SW-XX|            |
+|R1PP2-15-SW-XX|            |
+|R1PP2-16-SW-XX|            |
+|R1PP2-17-SW-XX|            |
+|R1PP2-18-SW-XX|            |
+|R1PP2-19-SW-XX|            |
+|R1PP2-20-SW-XX|            |
+|R1PP2-21-SW-XX|            |
+|R1PP2-22-SW-XX|            |
+|R1PP2-23-SW-XX|            |
+|R1PP2-24-SW-XX|            |
+|============================
 
 
 === RACK No.2: SALA INFORMATICA No.2
 
-.PATCH PANEL No.1
+.PATCH PANEL No.1 SIEMON
 [options="header"]
-|=======================
-|MARQUILLA|UBICACION   |
-|R2PP1-01 |PROF No.01  |
-|R2PP1-02 |MESA No.36  |
-|R2PP1-03 |MESA No.37  |
-|R2PP1-04 |MESA No.38  |
-|R2PP1-05 |MESA No.39  |
-|R2PP1-06 |MESA No.40  |
-|R2PP1-07 |MESA No.41  |
-|R2PP1-08 |MESA No.42  |
-|R2PP1-09 |MESA No.43  |
-|R2PP1-10 |MESA No.44  |
-|R2PP1-11 |MESA No.45  |
-|R2PP1-12 |MESA No.46  |
-|R2PP1-13 |MESA No.47  |
-|R2PP1-14 |MESA No.48  |
-|R2PP1-15 |MESA No.49  |
-|R2PP1-16 |MESA No.50  |
-|R2PP1-17 |MESA No.51  |
-|R2PP1-18 |MESA No.52  |
-|R2PP1-19 |MESA No.53  |
-|R2PP1-20 |MESA No.54  |
-|R2PP1-21 |MESA No.55  |
-|R2PP1-22 |MESA No.56  |
-|R2PP1-23 |MESA No.57  |
-|R2PP1-24 |MESA No.58  |
-|=======================
+|============================
+|MARQUILLA     |UBICACION   |
+|R2PP1-01-SW-XX|PROF No.01  |
+|R2PP1-02-SW-XX|MESA No.36  |
+|R2PP1-03-SW-XX|MESA No.37  |
+|R2PP1-04-SW-XX|MESA No.38  |
+|R2PP1-05-SW-XX|MESA No.39  |
+|R2PP1-06-SW-XX|MESA No.40  |
+|R2PP1-07-SW-XX|MESA No.41  |
+|R2PP1-08-SW-XX|MESA No.42  |
+|R2PP1-09-SW-XX|MESA No.43  |
+|R2PP1-10-SW-XX|MESA No.44  |
+|R2PP1-11-SW-XX|MESA No.45  |
+|R2PP1-12-SW-XX|MESA No.46  |
+|R2PP1-13-SW-XX|MESA No.47  |
+|R2PP1-14-SW-XX|MESA No.48  |
+|R2PP1-15-SW-XX|MESA No.49  |
+|R2PP1-16-SW-XX|MESA No.50  |
+|R2PP1-17-SW-XX|MESA No.51  |
+|R2PP1-18-SW-XX|MESA No.52  |
+|R2PP1-19-SW-XX|MESA No.53  |
+|R2PP1-20-SW-XX|MESA No.54  |
+|R2PP1-21-SW-XX|MESA No.55  |
+|R2PP1-22-SW-XX|MESA No.56  |
+|R2PP1-23-SW-XX|MESA No.57  |
+|R2PP1-24-SW-XX|MESA No.58  |
+|============================
 
-.PATCH PANEL No.2
+.PATCH PANEL No.2 SIEMON
 [options="header"]
-|=======================
-|MARQUILLA|UBICACION   |
-|R2PP2-01 |MESA No.59  |
-|R2PP2-02 |MESA No.60  |
-|R2PP2-03 |MESA No.61  |
-|R2PP2-04 |MESA No.62  |
-|R2PP2-05 |MESA No.63  |
-|R2PP2-06 |MESA No.64  |
-|R2PP2-07 |MESA No.65  |
-|R2PP2-08 |PROF No.02  |
-|R2PP2-09 |            |
-|R2PP2-10 |            |
-|R2PP2-11 |            |
-|R2PP2-12 |            |
-|R2PP2-13 |            |
-|R2PP2-14 |            |
-|R2PP2-15 |            |
-|R2PP2-16 |            |
-|R2PP2-17 |            |
-|R2PP2-18 |            |
-|R2PP2-19 |            |
-|R2PP2-20 |            |
-|R2PP2-21 |            |
-|R2PP2-22 |            |
-|R2PP2-23 |            |
-|R2PP2-24 |            |
-|=======================
+|============================
+|MARQUILLA     |UBICACION   |
+|R2PP2-01-SW-XX|MESA No.59  |
+|R2PP2-02-SW-XX|MESA No.60  |
+|R2PP2-03-SW-XX|MESA No.61  |
+|R2PP2-04-SW-XX|MESA No.62  |
+|R2PP2-05-SW-XX|MESA No.63  |
+|R2PP2-06-SW-XX|MESA No.64  |
+|R2PP2-07-SW-XX|MESA No.65  |
+|R2PP2-08-SW-XX|PROF No.02  |
+|R2PP2-09-SW-XX|            |
+|R2PP2-10-SW-XX|            |
+|R2PP2-11-SW-XX|            |
+|R2PP2-12-SW-XX|            |
+|R2PP2-13-SW-XX|            |
+|R2PP2-14-SW-XX|            |
+|R2PP2-15-SW-XX|            |
+|R2PP2-16-SW-XX|            |
+|R2PP2-17-SW-XX|            |
+|R2PP2-18-SW-XX|            |
+|R2PP2-19-SW-XX|            |
+|R2PP2-20-SW-XX|            |
+|R2PP2-21-SW-XX|            |
+|R2PP2-22-SW-XX|            |
+|R2PP2-23-SW-XX|            |
+|R2PP2-24-SW-XX|            |
+|============================
 
 === RACK No.3: SALA INFORMATICA No.3
 
-.PATCH PANEL No.1
+.PATCH PANEL No.1 SIEMON
 [options="header"]
-|=======================
-|MARQUILLA|UBICACION   |
-|R3PP1-01 |PROF No.01  |
-|R3PP1-02 |PROF No.02  |
-|R3PP1-03 |MESA No.67  |
-|R3PP1-04 |MESA No.68  |
-|R3PP1-05 |MESA No.69  |
-|R3PP1-06 |MESA No.70  |
-|R3PP1-07 |MESA No.71  |
-|R3PP1-08 |MESA No.72  |
-|R3PP1-09 |MESA No.73  |
-|R3PP1-10 |MESA No.74  |
-|R3PP1-11 |MESA No.75  |
-|R3PP1-12 |MESA No.86  |
-|R3PP1-13 |MESA No.76  |
-|R3PP1-14 |MESA No.77  |
-|R3PP1-15 |MESA No.78  |
-|R3PP1-16 |MESA No.79  |
-|R3PP1-17 |MESA No.80  |
-|R3PP1-18 |MESA No.81  |
-|R3PP1-19 |MESA No.82  |
-|R3PP1-20 |MESA No.83  |
-|R3PP1-21 |MESA No.88  |
-|R3PP1-22 |MESA No.85  |
-|R3PP1-23 |MESA No.84  |
-|R3PP1-24 |MESA No.90  |
-|=======================
+|============================
+|MARQUILLA     |UBICACION   |
+|R3PP1-01-SW-XX|PROF No.01  |
+|R3PP1-02-SW-XX|PROF No.02  |
+|R3PP1-03-SW-XX|MESA No.67  |
+|R3PP1-04-SW-XX|MESA No.68  |
+|R3PP1-05-SW-XX|MESA No.69  |
+|R3PP1-06-SW-XX|MESA No.70  |
+|R3PP1-07-SW-XX|MESA No.71  |
+|R3PP1-08-SW-XX|MESA No.72  |
+|R3PP1-09-SW-XX|MESA No.73  |
+|R3PP1-10-SW-XX|MESA No.74  |
+|R3PP1-11-SW-XX|MESA No.75  |
+|R3PP1-12-SW-XX|MESA No.86  |
+|R3PP1-13-SW-XX|MESA No.76  |
+|R3PP1-14-SW-XX|MESA No.77  |
+|R3PP1-15-SW-XX|MESA No.78  |
+|R3PP1-16-SW-XX|MESA No.79  |
+|R3PP1-17-SW-XX|MESA No.80  |
+|R3PP1-18-SW-XX|MESA No.81  |
+|R3PP1-19-SW-XX|MESA No.82  |
+|R3PP1-20-SW-XX|MESA No.83  |
+|R3PP1-21-SW-XX|MESA No.88  |
+|R3PP1-22-SW-XX|MESA No.85  |
+|R3PP1-23-SW-XX|MESA No.84  |
+|R3PP1-24-SW-XX|MESA No.90  |
+|============================
 
-.PATCH PANEL No.2
+.PATCH PANEL No.2 SIEMON
 [options="header"]
-|=======================
-|MARQUILLA|UBICACION   |
-|R3PP2-01 |MESA No.87  |
-|R3PP2-02 |MESA No.89  |
-|R3PP2-03 |MESA No.91  |
-|R3PP2-04 |MESA No.92  |
-|R3PP2-05 |MESA No.93  |
-|R3PP2-06 |MESA No.94  |
-|R3PP2-07 |MESA No.95  |
-|R3PP2-08 |MESA No.96  |
-|R3PP2-09 |            |
-|R3PP2-10 |            |
-|R3PP2-11 |            |
-|R3PP2-12 |            |
-|R3PP2-13 |            |
-|R3PP2-14 |            |
-|R3PP2-15 |            |
-|R3PP2-16 |            |
-|R3PP2-17 |            |
-|R3PP2-18 |            |
-|R3PP2-19 |            |
-|R3PP2-20 |            |
-|R3PP2-21 |            |
-|R3PP2-22 |            |
-|R3PP2-23 |            |
-|R3PP2-24 |            |
-|=======================
+|============================
+|MARQUILLA     |UBICACION   |
+|R3PP2-01-SW-XX|MESA No.87  |
+|R3PP2-02-SW-XX|MESA No.89  |
+|R3PP2-03-SW-XX|MESA No.91  |
+|R3PP2-04-SW-XX|MESA No.92  |
+|R3PP2-05-SW-XX|MESA No.93  |
+|R3PP2-06-SW-XX|MESA No.94  |
+|R3PP2-07-SW-XX|MESA No.95  |
+|R3PP2-08-SW-XX|MESA No.96  |
+|R3PP2-09-SW-XX|            |
+|R3PP2-10-SW-XX|            |
+|R3PP2-11-SW-XX|            |
+|R3PP2-12-SW-XX|            |
+|R3PP2-13-SW-XX|            |
+|R3PP2-14-SW-XX|            |
+|R3PP2-15-SW-XX|            |
+|R3PP2-16-SW-XX|            |
+|R3PP2-17-SW-XX|            |
+|R3PP2-18-SW-XX|            |
+|R3PP2-19-SW-XX|            |
+|R3PP2-20-SW-XX|            |
+|R3PP2-21-SW-XX|            |
+|R3PP2-22-SW-XX|            |
+|R3PP2-23-SW-XX|            |
+|R3PP2-24-SW-XX|            |
+|============================
 
 === RACK No.4: OFICINA SEGUNDA COORDINACION
 
-.PATCH PANEL No.1
+.PATCH PANEL No.1 SIEMON
 [options="header"]
-|=======================
-|MARQUILLA|UBICACION   |
-|R4PP1-01 |            |
-|R4PP1-02 |            |
-|R4PP1-03 |            |
-|R4PP1-04 |            |
-|R4PP1-05 |            |
-|R4PP1-06 |            |
-|R4PP1-07 |            |
-|R4PP1-08 |            |
-|R4PP1-09 |            |
-|R4PP1-10 |            |
-|R4PP1-11 |            |
-|R4PP1-12 |            |
-|R4PP1-13 |            |
-|R4PP1-14 |            |
-|R4PP1-15 |            |
-|R4PP1-16 |            |
-|R4PP1-17 |            |
-|R4PP1-18 |            |
-|R4PP1-19 |            |
-|R4PP1-20 |            |
-|R4PP1-21 |            |
-|R4PP1-22 |            |
-|R4PP1-23 |            |
-|R4PP1-24 |            |
-|=======================
+|============================
+|MARQUILLA     |UBICACION   |
+|R4PP1-01-SW-XX|            |
+|R4PP1-02-SW-XX|            |
+|R4PP1-03-SW-XX|            |
+|R4PP1-04-SW-XX|            |
+|R4PP1-05-SW-XX|            |
+|R4PP1-06-SW-XX|            |
+|R4PP1-07-SW-XX|            |
+|R4PP1-08-SW-XX|            |
+|R4PP1-09-SW-XX|            |
+|R4PP1-10-SW-XX|            |
+|R4PP1-11-SW-XX|            |
+|R4PP1-12-SW-XX|            |
+|R4PP1-13-SW-XX|            |
+|R4PP1-14-SW-XX|            |
+|R4PP1-15-SW-XX|            |
+|R4PP1-16-SW-XX|            |
+|R4PP1-17-SW-XX|            |
+|R4PP1-18-SW-XX|            |
+|R4PP1-19-SW-XX|            |
+|R4PP1-20-SW-XX|            |
+|R4PP1-21-SW-XX|            |
+|R4PP1-22-SW-XX|            |
+|R4PP1-23-SW-XX|            |
+|R4PP1-24-SW-XX|            |
+|============================
 
 === RACK No.5: OFICINA GESTION EDUCATIVA
 
-.PATCH PANEL No.1
+.PATCH PANEL No.1 SIEMON
 [options="header"]
-|=======================
-|MARQUILLA|UBICACION   |
-|R5PP1-01 |            |
-|R5PP1-02 |            |
-|R5PP1-03 |            |
-|R5PP1-04 |            |
-|R5PP1-05 |            |
-|R5PP1-06 |            |
-|R5PP1-07 |            |
-|R5PP1-08 |            |
-|R5PP1-09 |            |
-|R5PP1-10 |            |
-|R5PP1-11 |            |
-|R5PP1-12 |            |
-|R5PP1-13 |            |
-|R5PP1-14 |            |
-|R5PP1-15 |            |
-|R5PP1-16 |            |
-|R5PP1-17 |            |
-|R5PP1-18 |            |
-|R5PP1-19 |            |
-|R5PP1-20 |            |
-|R5PP1-21 |            |
-|R5PP1-22 |            |
-|R5PP1-23 |            |
-|R5PP1-24 |            |
-|=======================
+|============================
+|MARQUILLA     |UBICACION   |
+|R5PP1-01-SW-XX|            |
+|R5PP1-02-SW-XX|            |
+|R5PP1-03-SW-XX|            |
+|R5PP1-04-SW-XX|            |
+|R5PP1-05-SW-XX|            |
+|R5PP1-06-SW-XX|            |
+|R5PP1-07-SW-XX|            |
+|R5PP1-08-SW-XX|            |
+|R5PP1-09-SW-XX|            |
+|R5PP1-10-SW-XX|            |
+|R5PP1-11-SW-XX|            |
+|R5PP1-12-SW-XX|            |
+|R5PP1-13-SW-XX|            |
+|R5PP1-14-SW-XX|            |
+|R5PP1-15-SW-XX|            |
+|R5PP1-16-SW-XX|            |
+|R5PP1-17-SW-XX|            |
+|R5PP1-18-SW-XX|            |
+|R5PP1-19-SW-XX|            |
+|R5PP1-20-SW-XX|            |
+|R5PP1-21-SW-XX|            |
+|R5PP1-22-SW-XX|            |
+|R5PP1-23-SW-XX|            |
+|R5PP1-24-SW-XX|            |
+|============================
 
 === RACK No.6 PREESCOLAR
 
-.PATCH PANEL No.1
+.PATCH PANEL No.1 SIEMON
 [options="header"]
-|=======================
-|MARQUILLA|UBICACION   |
-|R6PP1-01 |            |
-|R6PP1-02 |            |
-|R6PP1-03 |            |
-|R6PP1-04 |            |
-|R6PP1-05 |            |
-|R6PP1-06 |            |
-|R6PP1-07 |            |
-|R6PP1-08 |            |
-|R6PP1-09 |            |
-|R6PP1-10 |            |
-|R6PP1-11 |            |
-|R6PP1-12 |            |
-|R6PP1-13 |            |
-|R6PP1-14 |            |
-|R6PP1-15 |            |
-|R6PP1-16 |            |
-|R6PP1-17 |            |
-|R6PP1-18 |            |
-|R6PP1-19 |            |
-|R6PP1-20 |            |
-|R6PP1-21 |            |
-|R6PP1-22 |            |
-|R6PP1-23 |            |
-|R6PP1-24 |            |
-|=======================
+|============================
+|MARQUILLA     |UBICACION   |
+|R6PP1-01-SW-XX|            |
+|R6PP1-02-SW-XX|            |
+|R6PP1-03-SW-XX|            |
+|R6PP1-04-SW-XX|            |
+|R6PP1-05-SW-XX|            |
+|R6PP1-06-SW-XX|            |
+|R6PP1-07-SW-XX|            |
+|R6PP1-08-SW-XX|            |
+|R6PP1-09-SW-XX|            |
+|R6PP1-10-SW-XX|            |
+|R6PP1-11-SW-XX|            |
+|R6PP1-12-SW-XX|            |
+|R6PP1-13-SW-XX|            |
+|R6PP1-14-SW-XX|            |
+|R6PP1-15-SW-XX|            |
+|R6PP1-16-SW-XX|            |
+|R6PP1-17-SW-XX|            |
+|R6PP1-18-SW-XX|            |
+|R6PP1-19-SW-XX|            |
+|R6PP1-20-SW-XX|            |
+|R6PP1-21-SW-XX|            |
+|R6PP1-22-SW-XX|            |
+|R6PP1-23-SW-XX|            |
+|R6PP1-24-SW-XX|            |
+|============================
 
 === RACK No.7 LUDOTECA
 
-.PATCH PANEL No.1
+.PATCH PANEL No.1 SIEMON
 [options="header"]
-|=======================
-|MARQUILLA|UBICACION   |
-|R7PP1-01 |            |
-|R7PP1-02 |            |
-|R7PP1-03 |            |
-|R7PP1-04 |            |
-|R7PP1-05 |            |
-|R7PP1-06 |            |
-|R7PP1-07 |            |
-|R7PP1-08 |            |
-|R7PP1-09 |            |
-|R7PP1-10 |            |
-|R7PP1-11 |            |
-|R7PP1-12 |            |
-|R7PP1-13 |            |
-|R7PP1-14 |            |
-|R7PP1-15 |            |
-|R7PP1-16 |            |
-|R7PP1-17 |            |
-|R7PP1-18 |            |
-|R7PP1-19 |            |
-|R7PP1-20 |            |
-|R7PP1-21 |            |
-|R7PP1-22 |            |
-|R7PP1-23 |            |
-|R7PP1-24 |            |
-|=======================
+|============================
+|MARQUILLA     |UBICACION   |
+|R7PP1-01-SW-XX|            |
+|R7PP1-02-SW-XX|            |
+|R7PP1-03-SW-XX|            |
+|R7PP1-04-SW-XX|            |
+|R7PP1-05-SW-XX|            |
+|R7PP1-06-SW-XX|            |
+|R7PP1-07-SW-XX|            |
+|R7PP1-08-SW-XX|            |
+|R7PP1-09-SW-XX|            |
+|R7PP1-10-SW-XX|            |
+|R7PP1-11-SW-XX|            |
+|R7PP1-12-SW-XX|            |
+|R7PP1-13-SW-XX|            |
+|R7PP1-14-SW-XX|            |
+|R7PP1-15-SW-XX|            |
+|R7PP1-16-SW-XX|            |
+|R7PP1-17-SW-XX|            |
+|R7PP1-18-SW-XX|            |
+|R7PP1-19-SW-XX|            |
+|R7PP1-20-SW-XX|            |
+|R7PP1-21-SW-XX|            |
+|R7PP1-22-SW-XX|            |
+|R7PP1-23-SW-XX|            |
+|R7PP1-24-SW-XX|            |
+|============================
 
 === RACK No.8 AUDIOVISUALES
 
-.PATCH PANEL No.1
+.PATCH PANEL No.1 SIEMON
 [options="header"]
-|=======================
-|MARQUILLA|UBICACION   |
-|R8PP1-01 |            |
-|R8PP1-02 |            |
-|R8PP1-03 |            |
-|R8PP1-04 |            |
-|R8PP1-05 |            |
-|R8PP1-06 |            |
-|R8PP1-07 |BTO         |
-|R8PP1-08 |            |
-|R8PP1-09 |            |
-|R8PP1-10 |            |
-|R8PP1-11 |            |
-|R8PP1-12 |            |
-|R8PP1-13 |            |
-|R8PP1-14 |            |
-|R8PP1-15 |            |
-|R8PP1-16 |            |
-|R8PP1-17 |            |
-|R8PP1-18 |            |
-|R8PP1-19 |            |
-|R8PP1-20 |            |
-|R8PP1-21 |            |
-|R8PP1-22 |            |
-|R8PP1-23 |            |
-|R8PP1-24 |            |
-|=======================
+|================================
+|MARQUILLA|UBICACION            |
+|R8PP1-01-SW-01|DLINK           |
+|R8PP1-02-SW-02|EQ-AUDIOVISUALES|
+|R8PP1-03-SW-03|EQ-AUDIOVISUALES|
+|R8PP1-04-SW-04|                |
+|R8PP1-05-SW-05|                |
+|R8PP1-06-SW-06|                |
+|R8PP1-07-SW-07|                |
+|R8PP1-08-SW-08|                |
+|R8PP1-09-SW-09|                |
+|R8PP1-10-SW-10|                |
+|R8PP1-11-SW-11|                |
+|R8PP1-12-SW-12|                |
+|R8PP1-13-SW-13|                |
+|R8PP1-14-SW-14|                |
+|R8PP1-15-SW-15|                |
+|R8PP1-16-SW-16|                |
+|R8PP1-17-SW-17|                |
+|R8PP1-18-SW-18|                |
+|R8PP1-19-SW-19|                |GI
+|R8PP1-20-SW-20|                |GI
+|R8PP1-21-SW-21|                |DPTOS
+|R8PP1-22-SW-22|                |BTO
+|R8PP1-23-SW-23|ACCESS POINT    |
+|R8PP1-24-SW-24|ACCESS POINT    |
+|================================
 
 === RACK No.9 GI
 
-.PATCH PANEL No.1
+.PATCH PANEL No.1 SIEMON
 [options="header"]
-|=======================
-|MARQUILLA|UBICACION   |
-|R9PP1-01 |            |
-|R9PP1-02 |            |
-|R9PP1-03 |            |
-|R9PP1-04 |            |
-|R9PP1-05 |            |
-|R9PP1-06 |            |
-|R9PP1-07 |            |
-|R9PP1-08 |            |
-|R9PP1-09 |            |
-|R9PP1-10 |            |
-|R9PP1-11 |            |
-|R9PP1-12 |            |
-|R9PP1-13 |            |
-|R9PP1-14 |            |
-|R9PP1-15 |            |
-|R9PP1-16 |            |
-|R9PP1-17 |            |
-|R9PP1-18 |            |
-|R9PP1-19 |            |
-|R9PP1-20 |            |
-|R9PP1-21 |            |
-|R9PP1-22 |            |
-|R9PP1-23 |            |
-|R9PP1-24 |            |
-|=======================
+|============================
+|MARQUILLA     |UBICACION   |
+|R9PP1-01-SW-XX|            |
+|R9PP1-02-SW-XX|            |
+|R9PP1-03-SW-XX|            |
+|R9PP1-04-SW-XX|            |
+|R9PP1-05-SW-XX|            |
+|R9PP1-06-SW-XX|            |
+|R9PP1-07-SW-XX|            |
+|R9PP1-08-SW-XX|            |
+|R9PP1-09-SW-XX|            |
+|R9PP1-10-SW-XX|            |
+|R9PP1-11-SW-XX|            |
+|R9PP1-12-SW-XX|            |
+|R9PP1-13-SW-XX|            |
+|R9PP1-14-SW-XX|            |
+|R9PP1-15-SW-XX|            |
+|R9PP1-16-SW-XX|            |
+|R9PP1-17-SW-XX|            |
+|R9PP1-18-SW-XX|            |
+|R9PP1-19-SW-XX|            |
+|R9PP1-20-SW-XX|            |
+|R9PP1-21-SW-XX|            |
+|R9PP1-22-SW-XX|            |
+|R9PP1-23-SW-XX|            |
+|R9PP1-24-SW-XX|            |
+|============================
 
 === RACK No.10 DPTOS ACADEMICOS
 
-.PATCH PANEL No.1
+.PATCH PANEL No.1  SIEMON
 [options="header"]
-|========================
-|MARQUILLA |UBICACION   |
-|R10PP1-01 |            |
-|R10PP1-02 |            |
-|R10PP1-03 |            |
-|R10PP1-04 |            |
-|R10PP1-05 |            |
-|R10PP1-06 |            |
-|R10PP1-07 |            |
-|R10PP1-08 |            |
-|R10PP1-09 |            |
-|R10PP1-10 |            |
-|R10PP1-11 |            |
-|R10PP1-12 |            |
-|R10PP1-13 |            |
-|R10PP1-14 |            |
-|R10PP1-15 |            |
-|R10PP1-16 |            |
-|R10PP1-17 |            |
-|R10PP1-18 |            |
-|R10PP1-19 |            |
-|R10PP1-20 |            |
-|R10PP1-21 |            |
-|R10PP1-22 |            |
-|R10PP1-23 |            |
-|R10PP1-24 |            |
-|========================
+|=============================
+|MARQUILLA      |UBICACION   |
+|R10PP1-01-SW-XX|            |
+|R10PP1-02-SW-XX|            |
+|R10PP1-03-SW-XX|            |
+|R10PP1-04-SW-XX|            |
+|R10PP1-05-SW-XX|            |
+|R10PP1-06-SW-XX|            |
+|R10PP1-07-SW-XX|            |
+|R10PP1-08-SW-XX|            |
+|R10PP1-09-SW-XX|            |
+|R10PP1-10-SW-XX|            |
+|R10PP1-11-SW-XX|            |
+|R10PP1-12-SW-XX|            |
+|R10PP1-13-SW-XX|            |
+|R10PP1-14-SW-XX|            |
+|R10PP1-15-SW-XX|            |
+|R10PP1-16-SW-XX|            |
+|R10PP1-17-SW-XX|            |
+|R10PP1-18-SW-XX|            |
+|R10PP1-19-SW-XX|            |
+|R10PP1-20-SW-XX|            |
+|R10PP1-21-SW-XX|            |
+|R10PP1-22-SW-XX|            |
+|R10PP1-23-SW-XX|            |
+|R10PP1-24-SW-XX|            |
+|=============================
 
-.PATCH PANEL No.2
+.PATCH PANEL No.2 21501563
 [options="header"]
-|========================
-|MARQUILLA |UBICACION   |
-|R10PP2-01 |            |
-|R10PP2-02 |            |
-|R10PP2-03 |R11PP3-29BTO|
-|R10PP2-04 |            |
-|R10PP2-05 |            |
-|R10PP2-06 |            |
-|R10PP2-07 |            |
-|R10PP2-08 |            |
-|R10PP2-09 |            |
-|R10PP2-10 |            |
-|R10PP2-11 |            |
-|R10PP2-12 |            |
-|R10PP2-13 |            |
-|R10PP2-14 |            |
-|R10PP2-15 |            |
-|R10PP2-16 |            |
-|========================
+|=============================
+|MARQUILLA      |UBICACION   |
+|R10PP2-01-SW-XX|            |
+|R10PP2-02-SW-XX|            |
+|R10PP2-03-SW-XX|            |
+|R10PP2-04-SW-XX|            |
+|R10PP2-05-SW-XX|            |
+|R10PP2-06-SW-XX|            |
+|R10PP2-07-SW-XX|            |
+|R10PP2-08-SW-XX|            |
+|R10PP2-09-SW-XX|            |
+|R10PP2-10-SW-XX|            |
+|R10PP2-11-SW-XX|            |
+|R10PP2-12-SW-XX|            |
+|R10PP2-13-SW-XX|            |
+|R10PP2-14-SW-XX|            |
+|R10PP2-15-SW-XX|            |
+|R10PP2-16-SW-XX|            |
+|=============================
+
+.PATCH PANEL No.3 21501562
+[options="header"]
+|=============================
+|MARQUILLA      |UBICACION   |
+|R10PP3-01-SW-XX|            |
+|R10PP3-02-SW-XX|            |
+|R10PP3-03-SW-XX|R11PP3-29   |BTO
+|R10PP3-04-SW-XX|            |
+|R10PP3-05-SW-XX|            |
+|R10PP3-06-SW-XX|            |
+|R10PP3-07-SW-XX|            |
+|R10PP3-08-SW-XX|            |
+|R10PP3-09-SW-XX|            |
+|R10PP3-10-SW-XX|            |
+|R10PP3-11-SW-XX|            |
+|R10PP3-12-SW-XX|            |
+|R10PP3-13-SW-XX|            |
+|R10PP3-14-SW-XX|            |
+|R10PP3-15-SW-XX|            |
+|R10PP3-16-SW-XX|            |
+|=============================
 
 === RACK No.11: SALA INFORMATICA No.1
 
-.PATCH PANEL No.1
+.PATCH PANEL No.1 SIEMON
 [options="header"]
-|========================
-|MARQUILLA |UBICACION   |
-|R11PP1-01 |            |
-|R11PP1-02 |            |
-|R11PP1-03 |            |
-|R11PP1-04 |            |
-|R11PP1-05 |            |
-|R11PP1-06 |            |
-|R11PP1-07 |            |
-|R11PP1-08 |            |
-|R11PP1-09 |            |
-|R11PP1-10 |            |
-|R11PP1-11 |            |
-|R11PP1-12 |            |
-|R11PP1-13 |            |
-|R11PP1-14 |            |
-|R11PP1-15 |            |
-|R11PP1-16 |            |
-|R11PP1-17 |            |
-|R11PP1-18 |            |
-|R11PP1-19 |            |
-|R11PP1-20 |            |
-|R11PP1-21 |            |
-|R11PP1-22 |            |
-|R11PP1-23 |            |
-|R11PP1-24 |            |
-|========================
+|=============================
+|MARQUILLA      |UBICACION   |
+|R11PP1-01-SW-XX|            |
+|R11PP1-02-SW-XX|            |
+|R11PP1-03-SW-XX|            |
+|R11PP1-04-SW-XX|            |
+|R11PP1-05-SW-XX|            |
+|R11PP1-06-SW-XX|            |
+|R11PP1-07-SW-XX|            |
+|R11PP1-08-SW-XX|            |
+|R11PP1-09-SW-XX|            |
+|R11PP1-10-SW-XX|            |
+|R11PP1-11-SW-XX|            |
+|R11PP1-12-SW-XX|            |
+|R11PP1-13-SW-XX|            |
+|R11PP1-14-SW-XX|            |
+|R11PP1-15-SW-XX|            |
+|R11PP1-16-SW-XX|            |
+|R11PP1-17-SW-XX|            |
+|R11PP1-18-SW-XX|            |
+|R11PP1-19-SW-XX|            |
+|R11PP1-20-SW-XX|            |
+|R11PP1-21-SW-XX|            |
+|R11PP1-22-SW-XX|            |
+|R11PP1-23-SW-XX|            |
+|R11PP1-24-SW-XX|            |
+|=============================
 
-.PATCH PANEL No.2
+.PATCH PANEL No.2 SIEMON
 [options="header"]
-|========================
-|MARQUILLA |UBICACION   |
-|R11PP2-01 |            |
-|R11PP2-02 |            |
-|R11PP2-03 |            |
-|R11PP2-04 |            |
-|R11PP2-05 |            |
-|R11PP2-06 |            |
-|R11PP2-07 |            |
-|R11PP2-08 |            |
-|R11PP2-09 |            |
-|R11PP2-10 |            |
-|R11PP2-11 |            |
-|R11PP2-12 |            |
-|R11PP2-13 |            |
-|R11PP2-14 |            |
-|R11PP2-15 |            |
-|R11PP2-16 |            |
-|R11PP2-17 |            |
-|R11PP2-18 |            |
-|R11PP2-19 |            |
-|R11PP2-20 |            |
-|R11PP2-21 |            |
-|R11PP2-22 |            |
-|R11PP2-23 |            |
-|R11PP2-24 |            |
-|========================
+|=============================
+|MARQUILLA      |UBICACION   |
+|R11PP2-01-SW-XX|            |
+|R11PP2-02-SW-XX|            |
+|R11PP2-03-SW-XX|            |
+|R11PP2-04-SW-XX|            |
+|R11PP2-05-SW-XX|            |
+|R11PP2-06-SW-XX|            |
+|R11PP2-07-SW-XX|            |
+|R11PP2-08-SW-XX|            |
+|R11PP2-09-SW-XX|            |
+|R11PP2-10-SW-XX|            |
+|R11PP2-11-SW-XX|            |
+|R11PP2-12-SW-XX|            |
+|R11PP2-13-SW-XX|            |
+|R11PP2-14-SW-XX|            |
+|R11PP2-15-SW-XX|            |
+|R11PP2-16-SW-XX|            |
+|R11PP2-17-SW-XX|            |
+|R11PP2-18-SW-XX|            |
+|R11PP2-19-SW-XX|            |
+|R11PP2-20-SW-XX|            |
+|R11PP2-21-SW-XX|            |
+|R11PP2-22-SW-XX|            |
+|R11PP2-23-SW-XX|            |
+|R11PP2-24-SW-XX|            |
+|=============================
 
 .PATCH PANEL No.3 QPCOM:21500385
 [options="header"]
-|============================
-|MARQUILLA |UBICACION       |
-|R11PP3-01 |MESA No.01      |
-|R11PP3-02 |MESA No.02      |
-|R11PP3-03 |MESA No.03      |
-|R11PP3-04 |MESA No.04      |
-|R11PP3-05 |MESA No.05      |
-|R11PP3-06 |MESA No.06      |
-|R11PP3-07 |MESA No.07      |
-|R11PP3-08 |MESA No.08      |
-|R11PP3-09 |MESA No.09      |
-|R11PP3-10 |MESA No.10      |
-|R11PP3-11 |MESA No.11      |
-|R11PP3-12 |MESA No.12      |
-|R11PP3-13 |MESA No.13      |
-|R11PP3-14 |MESA No.14      |
-|R11PP3-15 |MESA No.15      |
-|R11PP3-16 |MESA No.16      |
-|R11PP3-17 |MESA No.17      |
-|R11PP3-18 |MESA No.18      |
-|R11PP3-19 |MESA No.19      |
-|R11PP3-20 |MESA No.20      |
-|R11PP3-21 |MESA No.21      |
-|R11PP3-22 |MESA No.22      |
-|R11PP3-23 |MESA No.23      |
-|R11PP3-24 |MESA No.24      |
-|R11PP3-25 |MESA No.25      |
-|R11PP3-26 |MESA No.26      |
-|R11PP3-27 |                |
-|R11PP3-28 |PADRES          |
-|R11PP3-29 |R10PP2-03 DPTOS |
-|R11PP3-30 |                |
-|R11PP3-31 |                |
-|R11PP3-32 |                |
-|R11PP3-33 |                |
-|R11PP3-34 |                |
-|R11PP3-35 |                |
-|R11PP3-36 |                |
-|R11PP3-36 |                |
-|R11PP3-38 |                |
-|R11PP3-39 |                |
-|R11PP3-40 |                |
-|R11PP3-41 |                |
-|R11PP3-42 |                |
-|R11PP3-43 |                |
-|R11PP3-44 |                |
-|R11PP3-45 |                |
-|R11PP3-46 |                |
-|R11PP3-47 |                |
-|R11PP3-48 |                |
-|============================
+|=================================
+|MARQUILLA      |UBICACION       |
+|R11PP3-01-SW-XX|MESA No.01      |
+|R11PP3-02-SW-XX|MESA No.02      |
+|R11PP3-03-SW-XX|MESA No.03      |
+|R11PP3-04-SW-XX|MESA No.04      |
+|R11PP3-05-SW-XX|MESA No.05      |
+|R11PP3-06-SW-XX|MESA No.06      |
+|R11PP3-07-SW-XX|MESA No.07      |
+|R11PP3-08-SW-XX|MESA No.08      |
+|R11PP3-09-SW-XX|MESA No.09      |
+|R11PP3-10-SW-XX|MESA No.10      |
+|R11PP3-11-SW-XX|MESA No.11      |
+|R11PP3-12-SW-XX|MESA No.12      |
+|R11PP3-13-SW-XX|MESA No.13      |
+|R11PP3-14-SW-XX|MESA No.14      |
+|R11PP3-15-SW-XX|MESA No.15      |
+|R11PP3-16-SW-XX|MESA No.16      |
+|R11PP3-17-SW-XX|MESA No.17      |
+|R11PP3-18-SW-XX|MESA No.18      |
+|R11PP3-19-SW-XX|MESA No.19      |
+|R11PP3-20-SW-XX|MESA No.20      |
+|R11PP3-21-SW-XX|MESA No.21      |
+|R11PP3-22-SW-XX|MESA No.22      |
+|R11PP3-23-SW-XX|MESA No.23      |
+|R11PP3-24-SW-XX|MESA No.24      |
+|R11PP3-25-SW-XX|MESA No.25      |
+|R11PP3-26-SW-XX|MESA No.26      |
+|R11PP3-27-SW-XX|                |
+|R11PP3-28-SW-XX|PADRES          |
+|R11PP3-29-SW-XX|R10PP2-03 DPTOS |
+|R11PP3-30-SW-XX|                |
+|R11PP3-31-SW-XX|                |
+|R11PP3-32-SW-XX|                |
+|R11PP3-33-SW-XX|                |
+|R11PP3-34-SW-XX|                |
+|R11PP3-35-SW-XX|                |
+|R11PP3-36-SW-XX|                |
+|R11PP3-36-SW-XX|                |
+|R11PP3-38-SW-XX|                |
+|R11PP3-39-SW-XX|                |
+|R11PP3-40-SW-XX|                |
+|R11PP3-41-SW-XX|                |
+|R11PP3-42-SW-XX|                |
+|R11PP3-43-SW-XX|                |
+|R11PP3-44-SW-XX|                |
+|R11PP3-45-SW-XX|                |
+|R11PP3-46-SW-XX|                |
+|R11PP3-47-SW-XX|                |
+|R11PP3-48-SW-XX|                |
+|=================================
 
 === RACK No.12 ATENCION A PADRES
 
-.PATCH PANEL No.1
+.PATCH PANEL No.1  SIEMON
 [options="header"]
-|========================
-|MARQUILLA |UBICACION   |
-|R12PP1-01 |            |
-|R12PP1-02 |            |
-|R12PP1-03 |            |
-|R12PP1-04 |            |
-|R12PP1-05 |            |
-|R12PP1-06 |            |
-|R12PP1-07 |            |
-|R12PP1-08 |            |
-|R12PP1-09 |            |
-|R12PP1-10 |            |
-|R12PP1-11 |            |
-|R12PP1-12 |            |
-|R12PP1-13 |            |
-|R12PP1-14 |            |
-|R12PP1-15 |            |
-|R12PP1-16 |            |
-|R12PP1-17 |            |
-|R12PP1-18 |            |
-|R12PP1-19 |            |
-|R12PP1-20 |            |
-|R12PP1-21 |            |
-|R12PP1-22 |            |
-|R12PP1-23 |            |
-|R12PP1-24 |            |
-|========================
+|=============================
+|MARQUILLA      |UBICACION   |
+|R12PP1-01-SW-XX|            |
+|R12PP1-02-SW-XX|            |
+|R12PP1-03-SW-XX|            |
+|R12PP1-04-SW-XX|            |
+|R12PP1-05-SW-XX|            |
+|R12PP1-06-SW-XX|            |
+|R12PP1-07-SW-XX|            |
+|R12PP1-08-SW-XX|            |
+|R12PP1-09-SW-XX|            |
+|R12PP1-10-SW-XX|            |
+|R12PP1-11-SW-XX|            |
+|R12PP1-12-SW-XX|            |
+|R12PP1-13-SW-XX|            |
+|R12PP1-14-SW-XX|            |
+|R12PP1-15-SW-XX|            |
+|R12PP1-16-SW-XX|            |
+|R12PP1-17-SW-XX|            |
+|R12PP1-18-SW-XX|            |
+|R12PP1-19-SW-XX|            |
+|R12PP1-20-SW-XX|            |
+|R12PP1-21-SW-XX|            |
+|R12PP1-22-SW-XX|            |
+|R12PP1-23-SW-XX|            |
+|R12PP1-24-SW-XX|            |
+|=============================
 
 === RACK No.13 ADMINISTRACION
 
 .PATCH PANEL No.1
 [options="header"]
-|========================
-|MARQUILLA |UBICACION   |
-|R13PP1-01 |            |
-|R13PP1-02 |            |
-|R13PP1-03 |            |
-|R13PP1-04 |            |
-|R13PP1-05 |            |
-|R13PP1-06 |            |
-|R13PP1-07 |            |
-|R13PP1-08 |            |
-|R13PP1-09 |            |
-|R13PP1-10 |            |
-|R13PP1-11 |            |
-|R13PP1-12 |            |
-|R13PP1-13 |            |
-|R13PP1-14 |            |
-|R13PP1-15 |            |
-|R13PP1-16 |            |
-|R13PP1-17 |            |
-|R13PP1-18 |            |
-|R13PP1-19 |            |
-|R13PP1-20 |            |
-|R13PP1-21 |            |
-|R13PP1-22 |            |
-|R13PP1-23 |            |
-|R13PP1-24 |            |
-|========================
+|=============================
+|MARQUILLA      |UBICACION   |
+|R13PP1-01-SW-XX|            |
+|R13PP1-02-SW-XX|            |
+|R13PP1-03-SW-XX|            |
+|R13PP1-04-SW-XX|            |
+|R13PP1-05-SW-XX|            |
+|R13PP1-06-SW-XX|            |
+|R13PP1-07-SW-XX|            |
+|R13PP1-08-SW-XX|            |
+|R13PP1-09-SW-XX|            |
+|R13PP1-10-SW-XX|            |
+|R13PP1-11-SW-XX|            |
+|R13PP1-12-SW-XX|            |
+|R13PP1-13-SW-XX|            |
+|R13PP1-14-SW-XX|            |
+|R13PP1-15-SW-XX|            |
+|R13PP1-16-SW-XX|            |
+|R13PP1-17-SW-XX|            |
+|R13PP1-18-SW-XX|            |
+|R13PP1-19-SW-XX|            |
+|R13PP1-20-SW-XX|            |
+|R13PP1-21-SW-XX|            |
+|R13PP1-22-SW-XX|            |
+|R13PP1-23-SW-XX|            |
+|R13PP1-24-SW-XX|            |
+|=============================

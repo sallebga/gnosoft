@@ -12,7 +12,8 @@ n=&#241; N=&#209;
 
 https://github.com/sallebga/gnosoft/tree/master/src/main/asciidoc/en-US/modules[LINK]
 
-=== VALIDAR SIMA vs GNOSOFT
+
+=== [[VALIDAR SIMA vs GNOSOFT]]VALIDAR SIMA vs GNOSOFT
 
 * Generar el reporte: *[Acad&#233;mico administrador][Consultas y reportes][Generar reportes][MATR&#205;CULA][Estudiantes Matriculados]*
 
