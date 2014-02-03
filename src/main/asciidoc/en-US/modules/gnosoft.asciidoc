@@ -232,4 +232,5 @@ https://github.com/sallebga/gnosoft/tree/master/src/main/asciidoc/en-US/modules[
 **** Garantizar que al convertirlo sea de tipo caracter esto se logra garantizando que el primer registro no sea todo númerico
 
 
+=== [[VALIDAR SIMA vs GNOSOFT]]VALIDAR SIMA vs GNOSOFT
 

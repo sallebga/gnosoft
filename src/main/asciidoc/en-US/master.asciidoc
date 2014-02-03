@@ -1,6 +1,10 @@
 = GI - ACTIVIDADES
 
 include::modules/actividades.asciidoc[]
+include::modules/agenda-2014.asciidoc[]
+include::modules/agenda-web-2014.asciidoc[]
+include::modules/agenda-acad-2014.asciidoc[]
+include::modules/agenda-iso-2014.asciidoc[]
 include::modules/gnosoft.asciidoc[]
 include::modules/red.asciidoc[]
 include::modules/sima.asciidoc[]

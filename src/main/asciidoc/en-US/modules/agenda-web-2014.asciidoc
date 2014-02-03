@@ -1,0 +1,133 @@
+[[agenda-web-2014]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== AGENDA WEB DEL 2014
+
+=== RECURSOS
+
+* http://www.picmonkey.com/
+
+* http://www.alertra.com
+
+* DIRECTORIO: D:\GI\procesos
+
+* http://www.lasallebga.edu.co/web/administrator/
+
+* http://www.lasallebga.edu.co
+
+* http://ebook.online-convert.com/es/convertir-a-epub
+
+* Ejemplo de un art&#237;culo en columnas con foto y texto - www.lasallebga.edu.co
+
+* Tam&#241;o de las fotos para el art&#237;culo: pequenas: 300px - medianas: 650px
+
+* Directorio:D:\GI\procesos\09-GI\2012\www\banner : http://www.lasallebga.edu.co/web/images/slide/principal/
+
+* PUBLICACION DEL CONTENIDO DE LA PAGINA DEL COLEGIO - CRM
+
+* Cambiar el n&#250;mero de Pagina del Inicio:[Administrar menu/mainmenu],
+
+** hacer click en articulos del menu y una vez ahi entra a Inicio, y ahi a la derecha en parametros tenes
+   las opciones:Opciones de Plantilla:Introduci&#243;n de art&#237;culos.
+
+* http://www.rojadirecta.me/ - Ver Partidos
+
+=== BANNER
+
+* Directorio:D:\GI\procesos\09-GI\2012\www\banner
+
+* Tama&#241;o: 950px de ancho y 200px de alto
+
+=== ARTICULOS CONSTANTES
+
+* ADMISIONES 2013 - www.lasallebga.edu.co
+
+=== CARTA ACTUALIZACION DE LA PAGINA
+
+Bucaramanga, 23 de Mayo del 2012
+
+PARA:  JEFES DE DEPARTAMENTO, COORDINADORES, JEFES DE ALGUNOS PROCESOS
+
+ASUNTO:   ACTUALIZACI&#243;N DE LA PÁGINA DEL COLEGIO.  DPTO DE ESPAÑOL
+
+Cordial saludo
+
+Por medio de la presente me permito solicitarle su colaboraci&#243;n en la entrega de material informativo
+de las actividades desarrolladas por su dependencia, la cual ser&#225; publicada en la p&#225;gina Web del colegio.
+
+Las noticias se deben entregar en un archivo en Word que cumpla las siguientes indicaciones:
+
+* Debe llevar un t&#237;tulo breve y descriptivo.
+
+* El contenido de la noticia es resumen breve
+
+* Se deben anexar m&#225;ximo 3 fotograf&#237;as en formato .jpg por separado. No se deben insertar dentro del texto de la noticia.
+
+* Enviar el archivo en Word, las im&#225;genes anexas al correo gi@lasallebga.edu.co 5 d&#237;as h&#225;biles antes de la fecha de publicaci&#243;n.
+
+* Cuando haya un evento a nivel macro por cronograma (Ej: Intercalases, feria de la ciencia, d&#237;a lasallista, d&#237;a de la familia, d&#237;a de la raza)
+  se le pedir&#225; al Departamento responsable la redacci&#243;n de una nota alusiva al evento diferente a la que peri&#243;dicamente
+  debe publicar el Departamento a no ser que coincida la fecha de la publicaci&#243;n del Departamento con la del
+  desarrollo del evento macro del cronograma.
+
+
+=== ARTICULOS DE LA PAGINA
+
+.CONTROL DE ARTICULOS
+[options="header"]
+|===================================================================
+|DEPENDENCIAS               |FECHAS DE PUBLICACION | OBSERVACIONES | OTRAS PUBLICACIONES
+|Gesti&#243;n Directiva	    |                      |               |
+|Primera Coordinaci&#243;n  |                      |               |
+|Gesti&#243;n de la Calidad |                      |               |
+|Gesti&#243;n Educativa	    |                      |               |
+|Artes Pl&#225;sticas	    |                      |               |
+|Tercera Coordinaci&#243;n  |                      |               |
+|Sociales	            |                      |               |
+|Matem&#225;ticas	    |                      |               |
+|Cuarta Coordinaci&#243;n   |                      |               |
+|Ingles	                    |                      |               |
+|Ciencias Naturales	    |                      |               |
+|Educaci&#243;n Física	    |                      |               |
+|Espa&#241;ol	            |                      |               |
+|Educaci&#243;n en la fe    |                      |               |
+|Bienestar Estudiantil	    |                      |               |
+|Segunda Coordinaci&#243;n  |                      |               |
+|Inform&#225;tica	    |                      |               |
+|===================================================================
+
+Las noticias de las diferentes dependencia deben aparecer publicadas en las anteriores
+fechas no olvide que deben ser entregadas cinco d&#237;as antes para su revisi&#243;n.
+
+=== CONTROL PUBLICACIONES
+
+==== GE - GESTION DIRECTIVA                                                                   |
+
+* CRONOGRAMA
+
+* CIRCULARES EXTERNAS
+
+==== GE - GESTION EDUCATIVA
+
+* HORARIOS
+
+**  3 de febrero de 2014, 15:06 - https://mail.google.com/mail/u/0/?shva=1#inbox/143f95bb025cb793[gi@lasallebga.edu.co]
+
+==== GESTION DE SERVICIOS COMPLEMENTARIOS
+
+* MENU
+
+** http://www.lasallebga.edu.co/web/index.php/otros-servicios/restaurante-otros
+
+** 3 de febrero de 2014, 7:57 - https://mail.google.com/mail/u/0/?shva=1#inbox/143e9bf5369cce71[gi@lasallebga.edu.co]
+
+
+
+
