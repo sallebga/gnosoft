@@ -1,0 +1,44 @@
+[[web]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== WEB
+
+=== [[LINK ACTUALIZABLES CADA A&#209;O]]LINK ACTUALIZABLES CADA A&#209;O
+
+* Cronograma
+
+** [Extensiones][Gestor de M&#243;dulos]
+
+*** Buscar:Cronograma, selecionar y editar
+
+*** Texto:
+
+[source, console]
+----
+<ul>
+    <li><span style="color: #ff0000;"><a href="images/procesos/GD/correspondencia/2013/INDICACIONES-SEMANALES.pdf" target="_blank"><span style="color: #ff0000;">INDICACIONES SEMANALES</span></a></span></li>
+    <li><a href="index.php/publicaciones/256-circulares-externas">Correspondencia</a></li>
+    <li><a href="images/procesos/GD/cronograma/cronograma.pdf" target="_blank">Año 2013</a></li>
+    <li><a href="images/procesos/GE/cronograma/HorarioAtencionPadres.pdf" target="_blank">Horario de Atención a Padres</a></li>
+    <li><a href="images/procesos/GE/cronograma/HorarioEvaluaciones.pdf" target="_blank">Horario de Evaluaciones</a></li>
+</ul>
+----
+
+[source, console]
+----
+<ul>
+    <li><a href="images/procesos/GE/cronograma/horarioclase.pdf" target="_blank">Horario de Clase 2014</a></li>
+</ul>
+----
+
+ 3 de febrero de 2014, 17:05 - https://mail.google.com/mail/u/0/?shva=1#inbox/143ea2b24801a3cb[gi@lasallebga.edu.co]
+
+
+

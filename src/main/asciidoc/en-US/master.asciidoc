@@ -8,6 +8,7 @@ include::modules/agenda-iso-2014.asciidoc[]
 include::modules/gnosoft.asciidoc[]
 include::modules/red.asciidoc[]
 include::modules/sima.asciidoc[]
+include::modules/web.asciidoc[]
 
 
 
